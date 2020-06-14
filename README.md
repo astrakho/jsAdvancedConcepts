@@ -7,7 +7,7 @@
 ### Tutorials include the following topics
 
 * Prototypes
-* Context, this, bind, apply (To Do)
+* Context, this, bind, apply
 * Closures (To Do)
 * Asynchronous Javascript Theory, Event Loop (To Do)
 * Promises (To Do)
