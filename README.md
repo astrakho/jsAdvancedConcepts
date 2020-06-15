@@ -8,8 +8,8 @@
 
 * Prototypes
 * Context, this, bind, apply
-* Closures (To Do)
-* Asynchronous Javascript Theory, Event Loop (To Do)
+* Closures
+* Asynchronous Javascript Theory, Event Loop
 * Promises (To Do)
 * Objects, getters, setters (To Do)
 * ES6 Classes (To Do)
