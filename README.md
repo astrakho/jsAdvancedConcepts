@@ -12,7 +12,7 @@
 * Asynchronous Javascript Theory, Event Loop
 * Promises
 * Objects, getters, setters
-* ES6 Classes (To Do)
+* ES6 Classes
 * Async, Await, fetch (To Do)
 * Proxy, Objects, Functions, Classes (To Do)
 * Generators, Symbol iterator, for of (To Do)
