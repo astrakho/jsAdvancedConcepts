@@ -11,7 +11,7 @@
 * Closures
 * Asynchronous Javascript Theory, Event Loop
 * Promises
-* Objects, getters, setters (To Do)
+* Objects, getters, setters
 * ES6 Classes (To Do)
 * Async, Await, fetch (To Do)
 * Proxy, Objects, Functions, Classes (To Do)
