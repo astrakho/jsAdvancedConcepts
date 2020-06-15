@@ -10,7 +10,7 @@
 * Context, this, bind, apply
 * Closures
 * Asynchronous Javascript Theory, Event Loop
-* Promises (To Do)
+* Promises
 * Objects, getters, setters (To Do)
 * ES6 Classes (To Do)
 * Async, Await, fetch (To Do)
