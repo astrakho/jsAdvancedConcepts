@@ -13,7 +13,7 @@
 * Promises
 * Objects, getters, setters
 * ES6 Classes
-* Async, Await, fetch (To Do)
+* Async, Await, fetch
 * Proxy, Objects, Functions, Classes (To Do)
 * Generators, Symbol iterator, for of (To Do)
 * Array Methods (To Do)
