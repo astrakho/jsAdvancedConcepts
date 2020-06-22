@@ -14,9 +14,10 @@
 * Objects, getters, setters
 * ES6 Classes
 * Async, Await, fetch
-* Proxy, Objects, Functions, Classes (To Do)
-* Generators, Symbol iterator, for of (To Do)
+* Proxy, Objects, Functions, Classes
+* Generators, Symbol iterator, for of
 * Array Methods (To Do)
+* Map, Set, WeakMap, WeakSet (To Do)
 * More Fetch, XMLHttpRequest, Ajax (To Do)
 * Spread, Rest (To Do)
 * Destructuring (To Do)
