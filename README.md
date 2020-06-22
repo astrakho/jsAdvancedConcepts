@@ -16,7 +16,7 @@
 * Async, Await, fetch
 * Proxy, Objects, Functions, Classes
 * Generators, Symbol iterator, for of
-* Array Methods (To Do)
+* Array Methods
 * Map, Set, WeakMap, WeakSet (To Do)
 * More Fetch, XMLHttpRequest, Ajax (To Do)
 * Spread, Rest (To Do)
